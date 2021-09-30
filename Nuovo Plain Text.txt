@@ -1,0 +1,5 @@
+esercizio 1 , crea un array di oggetti che descrivano una bicicletta 
+con nome peso e stampre a schermo la bicicletta con il peso inferiore
+
+secondo esercizio , creare un array di oggetti squadre di calcio nome falli subiti falli fatti punti tutti i dati
+a parte il nome saranno settati a zero
